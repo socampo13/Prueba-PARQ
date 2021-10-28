@@ -1,5 +1,5 @@
 # Prueba-PARQ
 Prueba técnica desarrollador backend
 
-#Inicializar
+# Inicializar
 Para inicializar utilizar el comando npm run start
