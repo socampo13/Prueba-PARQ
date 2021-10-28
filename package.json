@@ -1,0 +1,27 @@
+{
+  "name": "prueba-parq",
+  "version": "1.0.0",
+  "description": "Prueba técnica desarrollador backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/socampo13/Prueba-PARQ.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/socampo13/Prueba-PARQ/issues"
+  },
+  "homepage": "https://github.com/socampo13/Prueba-PARQ#readme",
+  "dependencies": {
+    "consign": "^0.1.6",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.14",
+    "sequelize": "^6.8.0",
+    "sqlite3": "^5.0.2"
+  }
+}
